@@ -1,0 +1,7 @@
+/android/build
+/core/build
+.lock
+/.gradle
+/.idea/
+/gradlew
+/gradlew.bat
